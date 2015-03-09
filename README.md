@@ -1,3 +1,5 @@
+[![travis-ci.org](https://travis-ci.org/comoyo/condensation.svg?branch=master)](https://travis-ci.org/comoyo/condensation)
+
 # Condensation
 
 A Clojure library for making AWS CloudFormation easier to use.
