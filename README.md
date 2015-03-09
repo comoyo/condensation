@@ -12,7 +12,7 @@ Leiningen coordinate:
 [com.comoyo/condensation "0.2.1"]
 ```
 
-## Template defintion
+## Template definition
 
 To define templates, require
 `[com.comoyo.condensation.template :as cft]`.
