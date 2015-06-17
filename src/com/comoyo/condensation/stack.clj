@@ -1,4 +1,5 @@
 (ns com.comoyo.condensation.stack
+  (:refer-clojure :exclude [update])
   (:require [clojure.data.json :as json]
             [clojure.set :as set]
             [amazonica.aws.cloudformation :as cf]
