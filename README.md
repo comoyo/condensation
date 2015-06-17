@@ -154,3 +154,11 @@ To delete a stack, use `delete-stack`:
 (delete-stack :stack-name "dummy")
 ```
 
+You can also use the `get-outputs` function to get easy access to
+stack outputs:
+
+```clj
+(:vpc-id
+ (get-outputs "dummy"))
+```
+
