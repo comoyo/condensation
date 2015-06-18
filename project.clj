@@ -1,4 +1,4 @@
-(defproject com.comoyo/condensation "0.2.2"
+(defproject com.comoyo/condensation "0.2.3-SNAPSHOT"
   :description "A Clojure library for making AWS CloudFormation easier to use."
   :url "https://github.com/comoyo/condensation"
   :license {:name "Apache License 2.0"
