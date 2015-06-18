@@ -9,7 +9,7 @@ A Clojure library for making AWS CloudFormation easier to use.
 Leiningen coordinate:
 
 ```clj
-[com.comoyo/condensation "0.2.1"]
+[com.comoyo/condensation "0.2.2"]
 ```
 
 ## Template definition
